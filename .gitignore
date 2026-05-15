@@ -47,3 +47,9 @@ dist/
 /js/
 /paulimg/
 /scss/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
