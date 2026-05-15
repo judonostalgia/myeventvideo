@@ -20,3 +20,5 @@ Recommended Cloudflare Pages settings:
 
 - Build command: leave blank
 - Build output directory: `site`
+
+Cloudflare Workers static assets are configured in `wrangler.jsonc`.
