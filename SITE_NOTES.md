@@ -40,4 +40,4 @@ Portfolio thumbnails use uniform portrait WebP crops:
 - `assets/images/portfolio-exhibitions.webp`
 - `assets/images/portfolio-motion-graphics.webp`
 
-The homepage hero background and Open Graph image currently use `portfolio-conferences.webp`.
+The homepage hero background and Open Graph image currently use `assets/images/hero.webp`.
