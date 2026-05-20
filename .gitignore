@@ -24,6 +24,7 @@ dist/
 /faq.html
 /headers.html
 /index*.html
+!/index.html
 !/site/index.html
 /landing*.html
 /login.html
@@ -34,6 +35,7 @@ dist/
 /pricing.html
 /register*.html
 /robots.txt
+!/robots.txt
 !/site/robots.txt
 /services.html
 /shop*.html
