@@ -133,7 +133,7 @@ textarea {
 }
 
 .hero-media {
-  background: url("../images/portfolio-conferences.jpg") center / cover no-repeat;
+  background: url("../images/portfolio-conferences.webp") center / cover no-repeat;
   transform: scale(1.02);
 }
 
